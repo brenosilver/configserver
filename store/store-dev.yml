@@ -1,3 +1,4 @@
 store:
   name: myStore
   address: 4545 Main St. Lousville PA
+  env: dev
