@@ -1,3 +1,4 @@
-"wires.queue": "fed_init_q",
-                "wires.type": "creq",
-                "wires.version": 1.5
+wires:
+  queue: fed_init_q
+  type: creq
+  version: 1.5
