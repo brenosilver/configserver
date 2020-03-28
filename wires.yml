@@ -1,0 +1,3 @@
+wires:
+  queue: fed_init_q
+  type: creq
